@@ -5,7 +5,7 @@ This repository contains my final GSoC'20 report and my work done during the pro
 
 ## Report:
 
-The report can be found here.
+The report can be found [here](https://github.com/MetalDent/GSoC-Final-Report/blob/master/GSoC_Final_Report_MetalDent.pdf).
 
 ## Work Product:
 
